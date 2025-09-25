@@ -1,0 +1,12 @@
+hello guys, contribute kayo here for you to familiarize git and github. Just add your name sa "names.txt".
+
+1. Open cmd and set your directory kung saan niyo gusto i-clone yung repo.
+2. Type this command: git clone https://github.com/krtdotcode/CCS112-Group.git
+3. Open your file explorer, then hanapin and open nyo yung CCS112-Group folder na na-clone.
+4. Add your name sa names.txt
+5. Punta kayo sa cmd tapos set niyo yung directory papuntang folder ng na-clone na repo: cd CCS112-Group
+6. Type this command: git add names.txt
+7. Type this command: git commit -m "lagay kayo message dito"
+8. Type this command: git push -u origin main
+
+Ask lang kayo if may di kayo gets or need ng guide or may problem.
